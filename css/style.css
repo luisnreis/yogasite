@@ -1,0 +1,122 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    background-color: snow;
+}
+
+h1, h2, h3, h4 ,h5, h6{
+    font-family: 'Smooch Sans', sans-serif;
+    font-weight: 600;
+}
+
+p{
+    font-family: 'Smooch Sans', sans-serif;
+    font-weight: 500;
+}
+
+a, footer, li, ul{
+    font-family: 'Smooch Sans', sans-serif;
+}
+
+.shiva{
+    width: 350px;
+    border-radius: 5%;
+}
+
+.hmaior{
+    font-size: 1.3rem;
+}
+
+.fmaior{
+    font-size: 1.3rem;
+}
+
+.amaior{
+    font-size: 1.6rem;
+}
+
+.pmaior{
+    font-size: 1.3rem;
+}
+
+.pcontato{
+    font-size: 1.5rem;
+}
+
+.fundo-nav{
+    background-color: #9e97ce;
+}
+
+.roxin{
+    color: #4d467a;
+}
+
+.roxin2{
+    color: #5e54a0;
+}
+
+.snow{
+    background-color: snow;
+}
+
+.roundedmy{
+   border-radius: 1rem;
+}
+
+.yogatype{
+    width: 100%;
+}
+
+.yoga2{
+    width: 80%;
+    height: 80%;
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 13px;
+}
+  
+/* Track */
+::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px purple; 
+    border-radius: 10px;
+}
+   
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #9864c8; 
+    border-radius: 10px;
+}
+  
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #9c689c; 
+}
+
+.cont{
+    width: 400px;
+    height: 400px;
+}
+
+a:link{
+    color: snow;
+    background-color: transparent;
+}
+
+a:hover{
+    color: snow;
+    background-color: transparent;
+}
+
+a:visited{
+    color: snow;
+    background-color: transparent;
+}
+
+a:active{
+    color: snow;
+    background-color: transparent;
+}
