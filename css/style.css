@@ -120,3 +120,23 @@ a:active{
     color: snow;
     background-color: transparent;
 }
+
+.drop:link{
+    color: #5e54a0;
+    background-color: transparent;
+}
+
+.drop:hover{
+    color: #5e54a0;
+    background-color: transparent;
+}
+
+.drop:visited{
+    color: #5e54a0;
+    background-color: transparent;
+}
+
+.drop:active{
+    color: #5e54a0;
+    background-color: transparent;
+}
